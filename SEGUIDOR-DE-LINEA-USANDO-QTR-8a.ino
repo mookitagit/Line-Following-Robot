@@ -1,9 +1,10 @@
-# TEAM markoboquiñechainajesu
 
-# Este codigo sirve para seguir una línea negra usando sensores y control PID proporcional-derivativo.
-.
+// TEAM markoboquiñechainajesu
 
-# 06 / 02 / 2025 - V. 1. 0. 0 - SEGUIDOR-DE-LINEA-USANDO-QTR
+// Este codigo sirve para seguir una línea negra usando sensores y control PID proporcional-derivativo.
+
+// 06 / 02 / 2025 - V. 1. 0. 0 - SEGUIDOR-DE-LINEA-USANDO-QTR
+
 #include <QTRSensors.h> // Se incluye la librería para el sensor QTR
 
 // Definición de constantes para el control PID y velocidad de motores

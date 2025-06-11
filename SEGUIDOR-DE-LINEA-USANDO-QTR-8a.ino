@@ -9,10 +9,10 @@
 
 // Definición de constantes para el control PID y velocidad de motores
 #define SETPOINT 2500     // Valor ideal del centro de la línea negra
-#define KP       .068     // Constante proporcional del control PID
+#define KP       .5     // Constante proporcional del control PID
 #define KD       0.3      // Constante derivativa del control PID
-#define MAX_SPEED   130   // Velocidad máxima permitida para los motores
-#define SET_SPEED   130   // Velocidad objetivo (base) de los motores
+#define MAX_SPEED   150   // Velocidad máxima permitida para los motores
+#define SET_SPEED   150   // Velocidad objetivo (base) de los motores
 #define MIN_SPEED   0     // Velocidad mínima de los motores
 
 // Variable para guardar el error anterior en el control PID

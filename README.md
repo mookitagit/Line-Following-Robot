@@ -4,7 +4,7 @@ En este repositorio encontramos un carrito seguidor de linea usando la plataorma
 
 
 ![Carrito seguidor de linea](https://github.com/user-attachments/assets/bd976919-36d6-4c02-91b1-92f356779255)
-Link del funcionamiento: https://www.youtube.com/watch?v=fKZDk9xEpEQ
+Link del funcionamiento: https://youtu.be/fKZDk9xEpEQ
 
 COMPONENTES USADOS:
 

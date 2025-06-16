@@ -29,7 +29,9 @@ PARAMETROS:
 ESAQUEMATICO :
 
 ![image](https://github.com/user-attachments/assets/2b115897-6714-401f-acd8-ccc7f034ada7)
+
 ( La pila de 9V en el esquema es solo ilustrativa. En el montaje real usamos una LiPo 7.4V 300mAh 2S 30C)
+
 
 FORMA DE USO:
 

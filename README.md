@@ -9,21 +9,21 @@ Link del funcionamiento: https://www.youtube.com/watch?v=fKZDk9xEpEQ
 COMPONENTES USADOS:
 
 
-*Modulo Qtr-8a Sensores Reflectivos Seguidor De Linea Arduino
+* Modulo Qtr-8a Sensores Reflectivos Seguidor De Linea Arduino
 
-*Modulo Puente H L298 Motor Driver Arduino Pic Raspberry
+* Modulo Puente H L298 Motor Driver Arduino Pic Raspberry
 
-*Arduino uno
+* Arduino uno
 
-*2 Motores 2WD
+* 2 Motores 2WD
 
 * Pila lipo 7.4V 300mAh 2S 30C LiPo
 
 PARAMETROS:
 
-*Constantes PID (Kp, Kd): Parámetros ajustables para ajustar la respuesta del controlador PID
+* Constantes PID (Kp, Kd): Parámetros ajustables para ajustar la respuesta del controlador PID
 
-*MAX_SPEED,SET_SPEED,MIN_SPEED,SETPOINT: Parametros ajustables dependiendo de el peso, dimenciones, numero de sensores etc
+* MAX_SPEED,SET_SPEED,MIN_SPEED,SETPOINT: Parametros ajustables dependiendo de el peso, dimenciones, numero de sensores etc
 
 
 ESAQUEMATICO :

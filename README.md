@@ -44,9 +44,12 @@ FORMA DE USO:
 
 PID Line Follower Tuning:
 
-* A continuacion se encuentra la guia con la que configure el PID http://robotresearchlab.com/2019/02/16/pid-line-follower-tuning/
+* A continuacion se encuentra la guia con la que configure el PID
+  http://robotresearchlab.com/2019/02/16/pid-line-follower-tuning/
 
-* En esta guia encontraras como crear el codigo y las bases de un carro seguidor de linea https://robotresearchlab.com/2019/02/12/how-to-program-a-line-following-robot/
+* En esta guia encontraras como crear el codigo y las bases de un carro seguidor de linea
+  https://robotresearchlab.com/2019/02/12/how-to-program-a-line-following-robot/
 
-* Agradezco especialmente al siguiente repositorio por algunas referencias y ejemplos que fueron de gran ayuda para completar este código: https://github.com/muquitarif/Autonomous-Line-Following-Robot
+* Agradezco especialmente al siguiente repositorio por algunas referencias y ejemplos que fueron de gran ayuda para completar este código
+  https://github.com/muquitarif/Autonomous-Line-Following-Robot
 

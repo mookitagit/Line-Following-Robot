@@ -51,4 +51,3 @@ En esta guia encontraras como crear el codigo y las bases de un carro seguidor d
 
 Agradezco especialmente al siguiente repositorio por algunas referencias y ejemplos que fueron de gran ayuda para completar este código: https://github.com/muquitarif/Autonomous-Line-Following-Robot
 
-https://youtu.be/fKZDk9xEpEQ

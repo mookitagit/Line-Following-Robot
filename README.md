@@ -41,12 +41,9 @@ FORMA DE USO:
    
 5. El robot empezara a seguir linea.
 
-PID Line Follower Tuning
+PID Line Follower Tuning:
 
 A continuacion se encuentra la guia con la que configure el PID http://robotresearchlab.com/2019/02/16/pid-line-follower-tuning/
-
-
-How to Program a Line Following Robot
 
 En esta guia encontraras como crear el codigo y las bases de un carro seguidor de linea https://robotresearchlab.com/2019/02/12/how-to-program-a-line-following-robot/
 

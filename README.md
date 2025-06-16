@@ -30,7 +30,7 @@ ESAQUEMATICO :
 
 ![image](https://github.com/user-attachments/assets/2b115897-6714-401f-acd8-ccc7f034ada7)
 
-( La pila de 9V en el esquema es solo ilustrativa. En el montaje real usamos una LiPo 7.4V 300mAh 2S 30C)
+(La pila de 9V en el esquema es solo ilustrativa. En el montaje real usamos una LiPo 7.4V 300mAh 2S 30C)
 
 
 FORMA DE USO:
@@ -41,12 +41,12 @@ FORMA DE USO:
    
 5. El robot empezara a seguir linea.
 
+
 PID Line Follower Tuning:
 
-A continuacion se encuentra la guia con la que configure el PID http://robotresearchlab.com/2019/02/16/pid-line-follower-tuning/
+* A continuacion se encuentra la guia con la que configure el PID http://robotresearchlab.com/2019/02/16/pid-line-follower-tuning/
 
-En esta guia encontraras como crear el codigo y las bases de un carro seguidor de linea https://robotresearchlab.com/2019/02/12/how-to-program-a-line-following-robot/
+* En esta guia encontraras como crear el codigo y las bases de un carro seguidor de linea https://robotresearchlab.com/2019/02/12/how-to-program-a-line-following-robot/
 
-
-Agradezco especialmente al siguiente repositorio por algunas referencias y ejemplos que fueron de gran ayuda para completar este código: https://github.com/muquitarif/Autonomous-Line-Following-Robot
+* Agradezco especialmente al siguiente repositorio por algunas referencias y ejemplos que fueron de gran ayuda para completar este código: https://github.com/muquitarif/Autonomous-Line-Following-Robot
 

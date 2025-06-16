@@ -2,6 +2,10 @@
 
 En este repositorio encontramos un carrito seguidor de linea usando la plataorma de arduino. El robot usa sensores qtr-8a controlados por el algoridmo Proportional-Integral-Derivative (PID) que nos ayuda a el control de los motores por medio de el error obtenido por el movimiento anterior y ayudando en el suavisado de el movimiento.
 
+
+![Carrito seguidor de linea](https://github.com/user-attachments/assets/bd976919-36d6-4c02-91b1-92f356779255)
+Link del funcionamiento: https://www.youtube.com/watch?v=fKZDk9xEpEQ
+
 COMPONENTES USADOS:
 
 

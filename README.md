@@ -17,6 +17,7 @@ COMPONENTES USADOS:
 
 *2 Motores 2WD
 
+* Pila lipo 7.4V 300mAh 2S 30C LiPo
 
 PARAMETROS:
 
@@ -25,9 +26,10 @@ PARAMETROS:
 *MAX_SPEED,SET_SPEED,MIN_SPEED,SETPOINT: Parametros ajustables dependiendo de el peso, dimenciones, numero de sensores etc
 
 
-ESAQUEMATICO:
+ESAQUEMATICO :
 
 ![image](https://github.com/user-attachments/assets/2b115897-6714-401f-acd8-ccc7f034ada7)
+( La pila de 9V en el esquema es solo ilustrativa. En el montaje real usamos una LiPo 7.4V 300mAh 2S 30C)
 
 FORMA DE USO:
 
